@@ -1,4 +1,8 @@
-# lab-chat
+# Chating Webb Application
+
+realtime chating application using web sockit
+
+### To run the application, follow these steps:
 
 To install dependencies:
 ```bash
