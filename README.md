@@ -1,4 +1,4 @@
-# Chating Webb Application
+# Chating Web Application
 
 realtime chating application using web sockit
 
